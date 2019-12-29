@@ -1,5 +1,5 @@
 
-S-expression calculator 
+S-expression calculator using C#.NET
 =======================
 
 
